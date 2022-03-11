@@ -17,6 +17,9 @@
                     <a href="{{ route('contact') }}">
                         <span>Contactez-nous</span>
                     </a>
+                    <a href="{{ route('catalogue') }}">
+                        <span>Catalogue</span>
+                    </a>
 
 
                     <ul class="list-reset">
